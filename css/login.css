@@ -1,0 +1,54 @@
+.login-box {
+    max-width: 550px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.login-box h2 {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.login-box p {
+    margin-bottom: 30px;
+}
+
+.full-width {
+    width: 100%;
+}
+
+.input-group input[type="text"],
+.input-group input[type="password"] {
+    width: 100%;
+    padding: 14px;
+    border: 1px solid #E2E8F0;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    font-size: 15px;
+    background-color: #F8FAFC;
+    transition: 0.3s;
+    font-family: inherit;
+}
+
+.login-links {
+    margin-top: 24px;
+    font-size: 14px;
+    color: #888;
+}
+
+.login-links a {
+    text-decoration: none;
+    color: #666;
+    transition: 0.2s;
+}
+
+.login-links a:hover {
+    color: #3B82F6;
+    font-weight: bold;
+}
+
+.login-links .bar {
+    margin: 0 8px;
+    color: #ddd;
+}
